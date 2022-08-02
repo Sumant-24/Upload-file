@@ -1,0 +1,1 @@
+Having knowledge in EC2, VPC, S3, IAM, SQS, SNS, Cloud Watch, Cloud Front, EBS, Elastic Load Balancer, Auto Scaling.
